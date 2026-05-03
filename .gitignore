@@ -3,6 +3,12 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Mac
+.DS_Store
+
+# VScode
+artificial-intelligence.code-workspace
+
 # C extensions
 *.so
 
@@ -153,6 +159,10 @@ dmypy.json
 
 # Cython debug symbols
 cython_debug/
+
+ai-analytics/
+
+*.pth
 
 # PyCharm
 #  JetBrains specific template is maintained in a separate JetBrains.gitignore that can
